@@ -1,0 +1,10 @@
+# Build and OS Files
+talaria
+.DS_Store
+*.o
+*.test
+*.exe
+
+# Configuration Secrets
+config.yml
+.env
