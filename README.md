@@ -64,8 +64,8 @@ Beyond just reading data, Talaria ships with a fully featured pseudo-terminal (`
 Grab the source code and compile it instantly. The web assets will be bundled into the binary.
 
 ```bash
-git clone https://github.com/narlyseorg/talaria.git
-cd talaria
+git clone https://github.com/narlyseorg/Talaria.git
+cd Talaria
 go mod tidy
 go build -o talaria .
 ```
